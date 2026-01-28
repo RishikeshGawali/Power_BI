@@ -18,9 +18,8 @@ This repository contains Power BI dashboards along with their corresponding data
 ## Usage
 
 1. **Clone the Repository** to your local machine:
-   ```bash
+
    https://github.com/your-username/your-repo-name
-````
 
 2. **Open Power BI Desktop**
 
