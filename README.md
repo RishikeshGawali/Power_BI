@@ -39,5 +39,4 @@ This repository contains Power BI dashboards along with their corresponding data
 Open a dashboard by navigating to its folder and opening the `.pbix` file in Power BI Desktop. The visuals will load using the dataset provided in the same folder.
 
 ## Author
-
 **RISHIKESH BHARAT GAWALI**
