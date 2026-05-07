@@ -4,7 +4,6 @@ This repository contains Power BI dashboards along with their corresponding data
 
 ## Features
 
-
 - Power BI dashboards created using real-world datasets
 - Each dashboard has its own dedicated folder
 - Dataset files included with each dashboard
