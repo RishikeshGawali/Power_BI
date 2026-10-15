@@ -1,4 +1,3 @@
-
 # Power_BI
 
 This repository contains Power BI dashboards along with their corresponding datasets. Each dashboard is stored in a separate folder, and the required database or data files used for that dashboard are included in the same folder for easy access and understanding.
